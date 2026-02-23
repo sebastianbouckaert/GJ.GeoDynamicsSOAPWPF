@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+#
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GJ.GeoDynamics.Infra", "GJ.GeoDynamics.Infra\GJ.GeoDynamics.Infra.csproj", "{2FA9DF10-168E-4F55-94F1-FD623E9F8163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoDynamics.Functions", "GeoDynamics.Functions\GeoDynamics.Functions.csproj", "{F55ECFC6-BFB0-45F1-B9EC-E49633CDA2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GJ.GeoDynamics.Domain", "GJ.GeoDynamics.Domain\GJ.GeoDynamics.Domain.csproj", "{F3047ED5-1B39-4BCF-A5FD-8893FC6FC945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GJ.GeoDynamics.Common", "GJ.GeoDynamics.Common\GJ.GeoDynamics.Common.csproj", "{E9A0685C-B43B-44B4-AD5A-B208833F3B86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA9DF10-168E-4F55-94F1-FD623E9F8163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA9DF10-168E-4F55-94F1-FD623E9F8163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA9DF10-168E-4F55-94F1-FD623E9F8163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA9DF10-168E-4F55-94F1-FD623E9F8163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55ECFC6-BFB0-45F1-B9EC-E49633CDA2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55ECFC6-BFB0-45F1-B9EC-E49633CDA2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55ECFC6-BFB0-45F1-B9EC-E49633CDA2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55ECFC6-BFB0-45F1-B9EC-E49633CDA2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3047ED5-1B39-4BCF-A5FD-8893FC6FC945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3047ED5-1B39-4BCF-A5FD-8893FC6FC945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3047ED5-1B39-4BCF-A5FD-8893FC6FC945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3047ED5-1B39-4BCF-A5FD-8893FC6FC945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A0685C-B43B-44B4-AD5A-B208833F3B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A0685C-B43B-44B4-AD5A-B208833F3B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A0685C-B43B-44B4-AD5A-B208833F3B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A0685C-B43B-44B4-AD5A-B208833F3B86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
