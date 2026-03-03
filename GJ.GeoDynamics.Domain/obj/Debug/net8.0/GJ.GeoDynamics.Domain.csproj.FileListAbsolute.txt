@@ -13,3 +13,19 @@ C:\Users\sebastian.bouckaert\RiderProjects\GeoDynamics SOAP WPF\GJ.GeoDynamics.D
 C:\Users\sebastian.bouckaert\RiderProjects\GeoDynamics SOAP WPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\refint\GJ.GeoDynamics.Domain.dll
 C:\Users\sebastian.bouckaert\RiderProjects\GeoDynamics SOAP WPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\GJ.GeoDynamics.Domain.pdb
 C:\Users\sebastian.bouckaert\RiderProjects\GeoDynamics SOAP WPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\ref\GJ.GeoDynamics.Domain.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\bin\Debug\net8.0\GJ.GeoDynamics.Domain.deps.json
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\bin\Debug\net8.0\GJ.GeoDynamics.Domain.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\bin\Debug\net8.0\GJ.GeoDynamics.Domain.pdb
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\bin\Debug\net8.0\GJ.GeoDynamics.Common.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\bin\Debug\net8.0\GJ.GeoDynamics.Common.pdb
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\GJ.GeoDynamics.Domain.csproj.AssemblyReference.cache
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\GJ.GeoDynamics.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\GJ.GeoDynamics.Domain.AssemblyInfoInputs.cache
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\GJ.GeoDynamics.Domain.AssemblyInfo.cs
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\GJ.GeoDynamics.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\GJ.GeoDynamics.Domain.sourcelink.json
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\GJ.GeoDy.1623EEF8.Up2Date
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\GJ.GeoDynamics.Domain.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\refint\GJ.GeoDynamics.Domain.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\GJ.GeoDynamics.Domain.pdb
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Domain\obj\Debug\net8.0\ref\GJ.GeoDynamics.Domain.dll

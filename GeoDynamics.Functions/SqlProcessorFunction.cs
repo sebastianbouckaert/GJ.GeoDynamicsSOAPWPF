@@ -16,13 +16,13 @@ public class SqlProcessorFunction
     }
 
     [Function("ProcessSqlTasks")]
-    public async Task Run([TimerTrigger("0 */2 * * * *")] TimerInfo myTimer)
+    public async Task Run([TimerTrigger("0 0/2 * * * *")] TimerInfo myTimer)
     {
         _logger.LogInformation($"C# Timer trigger function executed at: {DateTime.Now}");
 
         try
         {
-            var today = DateTime.UtcNow.AddDays(-4).Date;
+            var today = DateTime.UtcNow.AddDays(-1).Date;
             await _transferService.TransferAllForce(today, today);
 
             _logger.LogInformation("SQL tasks processed successfully.");

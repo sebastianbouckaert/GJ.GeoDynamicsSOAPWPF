@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace GJ.GeoDynamics.Common
 {
@@ -10,8 +11,8 @@ namespace GJ.GeoDynamics.Common
 
             if (DateTime.TryParse(dateString, out DateTime result))
             {
-                // Format: 8/01/2026 0:00:00
-                return result.ToString("d/MM/yyyy H:mm:ss");
+                // Force "/" as separator regardless of machine culture
+                return result.ToString("dd/MM/yyyy H:mm:ss", CultureInfo.InvariantCulture);
             }
 
             return dateString ?? "";

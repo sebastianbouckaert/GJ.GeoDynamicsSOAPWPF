@@ -12,11 +12,25 @@ var host = new HostBuilder()
     {
         var connectionString = context.Configuration["SqlConnectionString"];
 
-        services.AddSingleton<IDatabaseRepository>(sp =>
-            new DatabaseRepository(
-                sp.GetRequiredService<ILogger<DatabaseRepository>>(),
-                connectionString ?? throw new InvalidOperationException("SqlConnectionString is missing")));
+        services.AddSingleton<IDatabaseRepository>(sp => new DatabaseRepository(sp.GetRequiredService<ILogger<DatabaseRepository>>(), connectionString ?? throw new InvalidOperationException("SqlConnectionString is missing")));
         services.AddHttpClient<ISoapClient, SoapClient>();
+        
+        services.AddScoped<IVehicleRepository, VehicleRepository>();
+        services.AddScoped<IVehicleQueryRepository, VehicleQueryRepository>();
+
+        services.AddScoped<IUserRepository, UserRepository>();
+        services.AddScoped<IUserQueryRepository, UserQueryRepository>();
+
+        services.AddScoped<IPoiRepository, PoiRepository>();
+        services.AddScoped<IClockingRepository, ClockingRepository>();
+        services.AddScoped<ILocationRepository, LocationRepository>();
+
+        services.AddScoped<ITripOverviewRepository, TripOverviewRepository>();
+
+        services.AddScoped<IGeodynamicsTransferService, GeodynamicsTransferService>();
+
+
+
         services.AddScoped<IGeodynamicsTransferService, GeodynamicsTransferService>();
     })
     .Build();

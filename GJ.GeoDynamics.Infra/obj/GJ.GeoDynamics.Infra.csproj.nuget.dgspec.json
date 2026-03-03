@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Infra\\GJ.GeoDynamics.Infra.csproj": {}
+    "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Infra\\GJ.GeoDynamics.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj": {
+    "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj",
+        "projectUniqueName": "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj",
         "projectName": "GJ.GeoDynamics.Common",
-        "projectPath": "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj",
-        "packagesPath": "C:\\Users\\sebastian.bouckaert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Common\\obj\\",
+        "projectPath": "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj",
+        "packagesPath": "C:\\Users\\SebastianBouckaert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sebastian.bouckaert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SebastianBouckaert\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,24 +64,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\SebastianBouckaert\\.dotnet\\sdk\\8.0.418/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Domain\\GJ.GeoDynamics.Domain.csproj": {
+    "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Domain\\GJ.GeoDynamics.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Domain\\GJ.GeoDynamics.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Domain\\GJ.GeoDynamics.Domain.csproj",
         "projectName": "GJ.GeoDynamics.Domain",
-        "projectPath": "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Domain\\GJ.GeoDynamics.Domain.csproj",
-        "packagesPath": "C:\\Users\\sebastian.bouckaert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Domain\\obj\\",
+        "projectPath": "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Domain\\GJ.GeoDynamics.Domain.csproj",
+        "packagesPath": "C:\\Users\\SebastianBouckaert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sebastian.bouckaert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SebastianBouckaert\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -91,15 +90,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj": {
-                "projectPath": "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj"
+              "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj": {
+                "projectPath": "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj"
               }
             }
           }
@@ -140,24 +138,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\SebastianBouckaert\\.dotnet\\sdk\\8.0.418/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Infra\\GJ.GeoDynamics.Infra.csproj": {
+    "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Infra\\GJ.GeoDynamics.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Infra\\GJ.GeoDynamics.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Infra\\GJ.GeoDynamics.Infra.csproj",
         "projectName": "GJ.GeoDynamics.Infra",
-        "projectPath": "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Infra\\GJ.GeoDynamics.Infra.csproj",
-        "packagesPath": "C:\\Users\\sebastian.bouckaert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Infra\\obj\\",
+        "projectPath": "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Infra\\GJ.GeoDynamics.Infra.csproj",
+        "packagesPath": "C:\\Users\\SebastianBouckaert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sebastian.bouckaert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SebastianBouckaert\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -166,18 +164,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj": {
-                "projectPath": "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj"
+              "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj": {
+                "projectPath": "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Common\\GJ.GeoDynamics.Common.csproj"
               },
-              "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Domain\\GJ.GeoDynamics.Domain.csproj": {
-                "projectPath": "C:\\Users\\sebastian.bouckaert\\RiderProjects\\GeoDynamics SOAP WPF\\GJ.GeoDynamics.Domain\\GJ.GeoDynamics.Domain.csproj"
+              "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Domain\\GJ.GeoDynamics.Domain.csproj": {
+                "projectPath": "C:\\Users\\SebastianBouckaert\\RiderProjects\\GJ.GeoDynamicsSOAPWPF\\GJ.GeoDynamics.Domain\\GJ.GeoDynamics.Domain.csproj"
               }
             }
           }
@@ -230,7 +227,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\SebastianBouckaert\\.dotnet\\sdk\\8.0.418/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

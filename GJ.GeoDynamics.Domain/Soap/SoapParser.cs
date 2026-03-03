@@ -86,8 +86,23 @@ public static class IntelliTracerSoapParser
 
     public class ClockingSoapBody
     {
-        [XmlElement("Clocking_GetAllResponse", Namespace = SoapConfiguration.WebServiceNamespace)]
-        public ClockingGetAllResponse? Response { get; set; }
+        // IMPORTANT: this must match the SOAP body element name in your XML:
+        // <Clocking_GetByDateRangeUtcResponse xmlns="http://www.geodynamics.be/webservices">
+        [XmlElement("Clocking_GetByDateRangeUtcResponse", Namespace = SoapConfiguration.WebServiceNamespace)]
+        public ClockingGetByDateRangeUtcResponse? Response { get; set; }
+    }
+
+    public class ClockingGetByDateRangeUtcResponse
+    {
+        // IMPORTANT: must match <Clocking_GetByDateRangeUtcResult>
+        [XmlElement("Clocking_GetByDateRangeUtcResult", Namespace = SoapConfiguration.WebServiceNamespace)]
+        public ClockingGetByDateRangeUtcResult? Result { get; set; }
+    }
+
+    public class ClockingGetByDateRangeUtcResult
+    {
+        [XmlElement("ClockingEntity", Namespace = SoapConfiguration.WebServiceNamespace)]
+        public List<ClockingEntity> Clockings { get; set; } = new();
     }
 
     public class LocationsSoapBody

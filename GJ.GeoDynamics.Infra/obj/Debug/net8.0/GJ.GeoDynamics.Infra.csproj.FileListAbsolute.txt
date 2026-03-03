@@ -15,3 +15,21 @@ C:\Users\sebastian.bouckaert\RiderProjects\GeoDynamics SOAP WPF\GJ.GeoDynamics.I
 C:\Users\sebastian.bouckaert\RiderProjects\GeoDynamics SOAP WPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\refint\GJ.GeoDynamics.Infra.dll
 C:\Users\sebastian.bouckaert\RiderProjects\GeoDynamics SOAP WPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\GJ.GeoDynamics.Infra.pdb
 C:\Users\sebastian.bouckaert\RiderProjects\GeoDynamics SOAP WPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\ref\GJ.GeoDynamics.Infra.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\bin\Debug\net8.0\GJ.GeoDynamics.Infra.deps.json
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\bin\Debug\net8.0\GJ.GeoDynamics.Infra.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\bin\Debug\net8.0\GJ.GeoDynamics.Infra.pdb
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\bin\Debug\net8.0\GJ.GeoDynamics.Common.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\bin\Debug\net8.0\GJ.GeoDynamics.Domain.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\bin\Debug\net8.0\GJ.GeoDynamics.Common.pdb
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\bin\Debug\net8.0\GJ.GeoDynamics.Domain.pdb
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\GJ.GeoDynamics.Infra.csproj.AssemblyReference.cache
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\GJ.GeoDynamics.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\GJ.GeoDynamics.Infra.AssemblyInfoInputs.cache
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\GJ.GeoDynamics.Infra.AssemblyInfo.cs
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\GJ.GeoDynamics.Infra.csproj.CoreCompileInputs.cache
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\GJ.GeoDynamics.Infra.sourcelink.json
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\GJ.GeoDy.8FAE6624.Up2Date
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\GJ.GeoDynamics.Infra.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\refint\GJ.GeoDynamics.Infra.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\GJ.GeoDynamics.Infra.pdb
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Infra\obj\Debug\net8.0\ref\GJ.GeoDynamics.Infra.dll

@@ -9,3 +9,15 @@ C:\Users\sebastian.bouckaert\RiderProjects\GeoDynamics SOAP WPF\GJ.GeoDynamics.C
 C:\Users\sebastian.bouckaert\RiderProjects\GeoDynamics SOAP WPF\GJ.GeoDynamics.Common\obj\Debug\net8.0\refint\GJ.GeoDynamics.Common.dll
 C:\Users\sebastian.bouckaert\RiderProjects\GeoDynamics SOAP WPF\GJ.GeoDynamics.Common\obj\Debug\net8.0\GJ.GeoDynamics.Common.pdb
 C:\Users\sebastian.bouckaert\RiderProjects\GeoDynamics SOAP WPF\GJ.GeoDynamics.Common\obj\Debug\net8.0\ref\GJ.GeoDynamics.Common.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Common\bin\Debug\net8.0\GJ.GeoDynamics.Common.deps.json
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Common\bin\Debug\net8.0\GJ.GeoDynamics.Common.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Common\bin\Debug\net8.0\GJ.GeoDynamics.Common.pdb
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Common\obj\Debug\net8.0\GJ.GeoDynamics.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Common\obj\Debug\net8.0\GJ.GeoDynamics.Common.AssemblyInfoInputs.cache
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Common\obj\Debug\net8.0\GJ.GeoDynamics.Common.AssemblyInfo.cs
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Common\obj\Debug\net8.0\GJ.GeoDynamics.Common.csproj.CoreCompileInputs.cache
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Common\obj\Debug\net8.0\GJ.GeoDynamics.Common.sourcelink.json
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Common\obj\Debug\net8.0\GJ.GeoDynamics.Common.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Common\obj\Debug\net8.0\refint\GJ.GeoDynamics.Common.dll
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Common\obj\Debug\net8.0\GJ.GeoDynamics.Common.pdb
+C:\Users\SebastianBouckaert\RiderProjects\GJ.GeoDynamicsSOAPWPF\GJ.GeoDynamics.Common\obj\Debug\net8.0\ref\GJ.GeoDynamics.Common.dll
