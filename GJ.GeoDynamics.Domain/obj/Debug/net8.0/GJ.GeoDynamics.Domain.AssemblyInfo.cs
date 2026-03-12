@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GJ.GeoDynamics.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1772686de0275048df855409ec5e39f3a246e07c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a1b5acddfdf919d4aac515ec34548ce89e32b76")]
 [assembly: System.Reflection.AssemblyProductAttribute("GJ.GeoDynamics.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GJ.GeoDynamics.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

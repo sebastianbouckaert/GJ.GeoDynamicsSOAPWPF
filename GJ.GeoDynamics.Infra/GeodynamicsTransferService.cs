@@ -217,8 +217,8 @@ public class GeodynamicsTransferService : IGeodynamicsTransferService
         foreach (var g in userGuidStrings)
             userGuids.Add(g);
 
-        var envelope =
-            SoapEnvelopeBuilder.BuildTimeSheetGetByUserIdListDateRange(GetCaller(), userGuids, startDate, endDate);
+        
+        var envelope = SoapEnvelopeBuilder.BuildTimeSheetGetByUserIdListDateRange(GetCaller(), userGuids, startDate, endDate);
         var responseXml = await _soapClient.SendSoapRequestAsync(SoapConfiguration.Baseuri,
             SoapConfiguration.FullMethodLinks.TimeSheetGetByUserIdListDateRange, envelope);
         var overviews = IntelliTracerSoapParser.DeserializeTimesheetDayEntities(responseXml);

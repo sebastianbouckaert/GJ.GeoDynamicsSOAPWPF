@@ -1,6 +1,7 @@
 {
   "IsEncrypted": false,
   "Values": {
+    "MyTimerSchedule": "0 0 6,10,14 * * *",
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
     "SqlConnectionString": "Server=tcp:sql-jansen.database.windows.net,1433;Initial Catalog=sql-prd-trackandtrace;Persist Security Info=False;User ID=ict;Password=Jansen@Azure;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",

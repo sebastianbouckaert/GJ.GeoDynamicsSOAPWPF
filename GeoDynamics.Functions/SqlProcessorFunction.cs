@@ -16,7 +16,7 @@ public class SqlProcessorFunction
     }
 
     [Function("ProcessSqlTasks")]
-    public async Task Run([TimerTrigger("0 0 0 * * *")] TimerInfo myTimer)
+    public async Task Run([TimerTrigger("%MyTimerSchedule%")] TimerInfo myTimer)
     {
         _logger.LogInformation($"C# Timer trigger function executed at: {DateTime.Now}");
 

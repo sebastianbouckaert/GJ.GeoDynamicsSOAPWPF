@@ -52,6 +52,10 @@ public static class SoapConfiguration
         public const string VehicleId = "vehicleId";
         public const string UserIdList = "userIdList";
         public const string Guid = "guid";
+        public const string IncludeClockings = "includeClockings";
+        public const string IncludeSummary = "includeSummary";
+        public const string IncludeTimesheets = "includeTimesheets";
+        public const string IncludeTrips = "includeTrips";
     }
 
     public static class Prefixes
